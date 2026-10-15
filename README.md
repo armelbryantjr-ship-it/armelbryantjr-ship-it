@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Armel 👋
 
-<!--
-**armelbryantjr-ship-it/armelbryantjr-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Photographer | Videographer | Graphic Designer | Community Manager
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Armel**, a creative professional from Madagascar passionate about visual storytelling, digital communication, photography, and multimedia production.
+
+I help individuals, brands, and organizations communicate their stories through impactful visuals and digital content.
+
+### 🚀 About Me
+
+- 📸 Professional Photographer
+- 🎬 Videographer and Content Creator
+- 🎨 Graphic Designer
+- 📱 Community Manager
+- 💻 Interested in web development and digital technologies
+- 📍 Based in Madagascar
+- 🎯 My goal: Create meaningful work and become better every day.
+
+### 🛠️ Skills & Tools
+
+- **Photography:** Portrait, Wedding, Event, Studio & Outdoor
+- **Video:** Video shooting and editing
+- **Design:** Adobe Photoshop, Illustrator
+- **Photo Editing:** Adobe Lightroom
+- **Video Editing:** Adobe Premiere Pro, CapCut
+- **Digital Marketing:** Social media management and content strategy
+
+### 🌟 Featured Projects
+
+- 📷 **Armel.Portfolio** — Photography and multimedia projects
+- 🎨 **Graphic Design** — Visual identities and creative designs
+- 📱 **Social Media Management** — Digital content and community engagement
+
+### 📫 Let's Connect
+
+- **Facebook:** [Armel.Portfolio](https://www.facebook.com/profile.php?id=61569294823765)
+- **Location:** Madagascar
+
+### 💡 My Motto
+
+> "The goal is simple: Be better than yesterday."
+
+---
+
+⭐ Thank you for visiting my profile!
